@@ -1,6 +1,10 @@
-# Week6/7-DFIO
+# Final Factasy - Week6/7 Project - Founders and Coders summer 2019 cohort
 
-Victor, Jack, Reuben, Tony
+A web app built to solidify our newly acquired knowledge on databases and authentication.
+
+### Buy items from our fantasy shop to battle other users! you only get 20 coins, so choose wisely!
+
+Team : [Victor](https://github.com/victormasson21), [Jack](https://github.com/jackbridger), [Reuben](https://github.com/reubengt), [Tony](https://github.com/tonylomax)
 
 Installation
 
